@@ -24,7 +24,7 @@ _PRICE_IN = {"kWh": 1000, "MWh": 0, "Wh": 1000 * 1000}
 _REGIONS = {
     "DK1": ["DKK", "Denmark", 0.25],
     "DK2": ["DKK", "Denmark", 0.25],
-    "FI": ["EUR", "Finland", 0.24],
+    "FI": ["EUR", "Finland", 0.10],
     "EE": ["EUR", "Estonia", 0.20],
     "LT": ["EUR", "Lithuania", 0.21],
     "LV": ["EUR", "Latvia", 0.21],
